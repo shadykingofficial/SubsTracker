@@ -1,13 +1,13 @@
+@@ -1,13 +1,13 @@
 {
-  "name": "cf-chat-app",
-  "version": "1.0.0",
-  "description": "Real-time chat app for Cloudflare Workers",
-  "main": "src/index.js",
-  "scripts": {
-    "deploy": "wrangler deploy",
-    "start": "wrangler dev"
-  },
-  "devDependencies": {
-    "wrangler": "^3.0.0"
-  }
-}
+  "name": "subscription-manager",
+  "version": "2.0.0",
+  "description": "订阅管理系统 - 基于CloudFlare Workers",
+  "main": "index.js",
+  "keywords": [
+    "cloudflare-workers",
+    "subscription-management",
+    "notification",
+    "lunar-calendar"
+  ],
+  "license": "MIT"
